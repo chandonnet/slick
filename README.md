@@ -1,0 +1,1 @@
+Slick js skeleton wrapper for meteor

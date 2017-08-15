@@ -13,7 +13,7 @@ Package.onUse(function (api) {
 
     api.addFiles([
         'slick/slick.js',
-        'slick/slick.scss'
+        'slick/slick.css'
     ], 'client');
 
     api.use('jquery', 'client');
